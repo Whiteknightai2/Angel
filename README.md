@@ -2,7 +2,7 @@
 <br>
 
 ![Kanade Tachibana](https://giffiles.alphacoders.com/138/13831.gif)
-###### >> An OSINT inspired by Kanade Tachibana (Angel) | Created by Coded#0001 on Discord
+###### >> An OSINT inspired by Kanade Tachibana (Angel) | Created by Coded.ari on Discord
 <br><br>
 # [ 1 ] What do we offer?
 
